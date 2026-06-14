@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.2</h3>
+          <ul>
+            <li>💸 <strong>Tips &amp; page support on more rails</strong> - mobile money or bank, not just cards</li>
+            <li>🔴 <strong>Recorded lives</strong> - follow hosts and see view counts</li>
+            <li>📊 <strong>Pages &amp; charities</strong> - now show amount raised and supporter counts</li>
+            <li>🧾 <strong>Clearer fees</strong>, a smoother feed, and a faster Impact page</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.2"
+        sparkle:shortVersionString="1.0.2"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <description>
         <![CDATA[
