@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.3</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.3</h3>
+          <ul>
+            <li>📤 <strong>Smoother sharing</strong> - a photo with a caption no longer posts a duplicate message</li>
+            <li>🔴 <strong>Recorded lives</strong> - the progress bar no longer stalls during playback</li>
+            <li>🧾 <strong>Accurate receipts</strong> - donation &amp; tip PDFs are correct and open when shared</li>
+            <li>✨ Correct currency on recorded lives, a clearer fee breakdown, and a banner that stays dismissed</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.3"
+        sparkle:shortVersionString="1.0.3"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <description>
         <![CDATA[
