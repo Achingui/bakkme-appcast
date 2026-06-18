@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.5</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.5</h3>
+          <ul>
+            <li>📨 <strong>Share to BakkMe members</strong> - send posts, sparks and more straight to other members</li>
+            <li>🔗 <strong>Rich link previews in chat</strong> - shared links now unfurl with image and title</li>
+            <li>💚 <strong>Smoother donations &amp; tips</strong> - in your language, details prefilled, with a clear receipt and fee breakdown</li>
+            <li>🌍 Support more fundraisers from iPhone, including mobile-money campaigns</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.5"
+        sparkle:shortVersionString="1.0.5"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <description>
         <![CDATA[
