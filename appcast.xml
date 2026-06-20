@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.6</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.6</h3>
+          <ul>
+            <li>🙈 <strong>Sensitive-content covers</strong> - flagged photos and videos are blurred behind a tap-to-view warning, on posts, sparks, fundraisers and charities</li>
+            <li>🎵 <strong>Music &amp; credits</strong> - add a song or a credit to your posts and stories, shown to viewers</li>
+            <li>🕒 <strong>Clearer "last seen"</strong> - chat now shows a simple relative time instead of a confusing clock</li>
+            <li>✨ Various fixes and improvements</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.6"
+        sparkle:shortVersionString="1.0.6"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.5</title>
       <description>
         <![CDATA[
