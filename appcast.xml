@@ -5,6 +5,26 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.8</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.8</h3>
+          <ul>
+            <li>📱 <strong>Bottom navigation fix</strong> - the bottom navigation bar now stays hidden while you scroll the feed</li>
+            <li>✨ Various fixes and improvements</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.8"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.7</title>
       <description>
         <![CDATA[
