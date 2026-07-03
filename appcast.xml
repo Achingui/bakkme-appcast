@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.11</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.11</h3>
+          <ul>
+            <li>⚡ <strong>Faster sign-up</strong> - date of birth and gender are now optional</li>
+            <li>💬 <strong>Smoother comments</strong> - GIF replies now display, and posting is more reliable</li>
+            <li>🛠️ Stability and performance improvements</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.11"
+        sparkle:shortVersionString="1.0.11"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.8</title>
       <description>
         <![CDATA[
