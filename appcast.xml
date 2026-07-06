@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.13</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.13</h3>
+          <ul>
+            <li>🎯 <strong>Clearer fundraising</strong> - choose a charity or a group, each with its own picker and logo</li>
+            <li>🖼️ <strong>Better beneficiary list</strong> - groups and charities now show an avatar (no more blank rows)</li>
+            <li>🏳️ Currency picker now shows country flags</li>
+            <li>💬 Smoother chat restore and a Sparks playback fix</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.13"
+        sparkle:shortVersionString="1.0.13"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.11</title>
       <description>
         <![CDATA[
