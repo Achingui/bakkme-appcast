@@ -5,6 +5,25 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.14</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.14</h3>
+          <ul>
+            <li>▶️ <strong>Sparks fix</strong> - the first Spark now plays right away instead of showing only its thumbnail</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.14"
+        sparkle:shortVersionString="1.0.14"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.13</title>
       <description>
         <![CDATA[
