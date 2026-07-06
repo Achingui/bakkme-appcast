@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.15</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.15</h3>
+          <ul>
+            <li>🎵 <strong>Music on stories & posts</strong> - add your own audio or search royalty-free tracks</li>
+            <li>❤️ <strong>Likes & comments</strong> - react to fundraisers and charities right from the feed</li>
+            <li>✨ <strong>Smoother feed</strong> - fixed a rare blank page while scrolling, plus accuracy fixes and polish</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.15"
+        sparkle:shortVersionString="1.0.15"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.14</title>
       <description>
         <![CDATA[
