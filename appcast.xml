@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.17</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.17</h3>
+          <ul>
+            <li>🔒 <strong>Fundraiser privacy, honored</strong> - choose who sees your fundraiser (everyone, your group, or specific people); now enforced in feed, search and links</li>
+            <li>ℹ️ <strong>Clearer privacy</strong> - every privacy picker explains visibility and searchability</li>
+            <li>🎵 <strong>Sparks song credit</strong> - add a song credit to your Spark</li>
+            <li>👥 <strong>Group chat</strong> - see how many members are online, with clearer join/leave notices</li>
+            <li>🌍 <strong>Notifications in your language</strong>, plus reliability fixes</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.17"
+        sparkle:shortVersionString="1.0.17"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.15</title>
       <description>
         <![CDATA[
