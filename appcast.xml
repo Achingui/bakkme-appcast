@@ -5,27 +5,6 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.18</title>
-      <description>
-        <![CDATA[
-          <h3>What's New in Version 1.0.18</h3>
-          <ul>
-            <li>📣 <strong>Post as your Page</strong> - your creator, business or charity Page can now share posts, stories and Sparks under the Page's name and photo</li>
-            <li>🎙️ <strong>Voice notes</strong> - at the 5-minute limit we now alert you, so your recording is saved and ready to send</li>
-            <li>🔒 <strong>Encryption, visible</strong> - chats now show an end-to-end encryption note</li>
-          </ul>
-        ]]>
-      </description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://apps.apple.com/app/id6764490928"
-        sparkle:version="1.0.18"
-        sparkle:shortVersionString="1.0.18"
-        sparkle:os="ios"
-      />
-    </item>
-    <item>
       <title>Version 1.0.17</title>
       <description>
         <![CDATA[
