@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.19</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.19</h3>
+          <ul>
+            <li>🔗 <strong>Share to a BakkMe friend + rich link previews</strong> - send Stories to a friend in chat; shared links show a real thumbnail with a play icon for videos, and a shared Spark opens exactly that one</li>
+            <li>🖼️ <strong>Chat media grouping</strong> - multiple photos/videos become an album with a count; multiple files group into one bubble</li>
+            <li>👥 <strong>Groups via link</strong> - preview a group and Request to Join</li>
+            <li>✨ <strong>Sharper photos &amp; videos</strong></li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.19"
+        sparkle:shortVersionString="1.0.19"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.18</title>
       <description>
         <![CDATA[
