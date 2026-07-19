@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.20</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.20</h3>
+          <ul>
+            <li>❤️ <strong>Featured fundraisers on Home</strong> - the home fundraiser row is never empty, with clearer cards and a friendly note when a cause isn't accepting donations yet</li>
+            <li>✨ <strong>Discover more</strong> - a new highlights banner and "New" badges help you find the Scheduler, Drafts, Saved and Invite &amp; Earn</li>
+            <li>🎵 <strong>Preview songs for Stories</strong> - the picker opens with popular songs you can tap to preview before adding</li>
+            <li>🛠️ <strong>Fixes &amp; polish</strong></li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.20"
+        sparkle:shortVersionString="1.0.20"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.19</title>
       <description>
         <![CDATA[
