@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.21</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.21</h3>
+          <ul>
+            <li>💬 <strong>Roomier, clearer chat</strong> - a wider message box, and group chats now show who sent each message, in your chat list and in your notifications</li>
+            <li>✅ <strong>Easier identity verification</strong> - clear steps in your own language with photo tips, so you get approved faster</li>
+            <li>🛠️ <strong>Fixes &amp; polish</strong> - tap links in notifications, add emoji while typing, smoother Sparks sound and video playback, plus lots of small fixes</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.21"
+        sparkle:shortVersionString="1.0.21"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.20</title>
       <description>
         <![CDATA[
