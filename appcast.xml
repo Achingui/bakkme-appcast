@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.22</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.22</h3>
+          <ul>
+            <li>💛 <strong>Get donations right away</strong> - fundraisers and charities can now accept donations while your verification finishes</li>
+            <li>💸 <strong>Easier payouts</strong> - simpler payout setup, and your fundraiser now shows its local currency</li>
+            <li>💬 <strong>Smoother chat</strong> - shared chats appear instantly, "retry" clears itself once a message sends, and we fixed a rare blank screen when leaving a chat</li>
+            <li>🛠️ <strong>Fixes &amp; polish</strong></li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.22"
+        sparkle:shortVersionString="1.0.22"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.21</title>
       <description>
         <![CDATA[
