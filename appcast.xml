@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.23</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.23</h3>
+          <ul>
+            <li>💸 <strong>Get paid with PayPal</strong> - creators and organizers in more countries, including the Philippines, India and Pakistan, can now receive payouts straight to PayPal</li>
+            <li>💬 <strong>Smoother chat</strong> - your media keeps its caption, voice messages show their length, and sharing is snappier</li>
+            <li>📶 <strong>Better on slow connections</strong>, plus fixes and polish. Thank you for using BakkMe!</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.23"
+        sparkle:shortVersionString="1.0.23"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.22</title>
       <description>
         <![CDATA[
