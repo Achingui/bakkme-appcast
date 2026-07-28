@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.24</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.24</h3>
+          <ul>
+            <li>💳 <strong>Donate with PayPal</strong> - in supported countries you can now pay for your donation securely with your PayPal account</li>
+            <li>✅ <strong>Clearer payments</strong> - if you cancel you'll see a clear "no charge" confirmation, and we let you know when a donation is held safely until the recipient's payout is ready</li>
+            <li>🔴 <strong>More reliable live sessions</strong>, plus fixes and polish. Thank you for using BakkMe!</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.24"
+        sparkle:shortVersionString="1.0.24"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.23</title>
       <description>
         <![CDATA[
