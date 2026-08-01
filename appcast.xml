@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.25</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.25</h3>
+          <ul>
+            <li>👥 <strong>Discover &amp; join Groups from Home</strong> - and new groups you create are now private by default</li>
+            <li>💬 <strong>Smoother chat</strong> - voice-message replies attach correctly, new messages arrive instantly, shared posts show view &amp; like counts, plus a fix for a crash when leaving a conversation</li>
+            <li>🛠️ <strong>Easier sign-up, cleaner live replays, tap-to-zoom fundraiser covers</strong>, and many fixes &amp; polish. Thank you for using BakkMe!</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.25"
+        sparkle:shortVersionString="1.0.25"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.24</title>
       <description>
         <![CDATA[
