@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.27</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.27</h3>
+          <ul>
+            <li>🔴 <strong>Better live sessions</strong> - donations now appear right in the on-screen activity feed and stay visible, the amount raised updates live (and in replays), and a speaker's video no longer overlaps the top controls</li>
+            <li>💬 <strong>Chat, front and center</strong> - a new welcome highlight for messaging friends and supporters in real time</li>
+            <li>✨ <strong>Cleaner Home, correct donation currencies, and clearer verification</strong>, plus fixes &amp; polish. Thank you for using BakkMe!</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.27"
+        sparkle:shortVersionString="1.0.27"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.25</title>
       <description>
         <![CDATA[
