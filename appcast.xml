@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.29</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.29</h3>
+          <ul>
+            <li>🎨 <strong>Refreshed onboarding</strong> — a clean, new welcome experience</li>
+            <li>⚡ <strong>Faster &amp; lighter</strong> — optimized for lower-end devices and slower networks</li>
+            <li>💬 <strong>Chat backup fix</strong> — the "Restore your chats" prompt no longer stays on screen after a successful restore</li>
+            <li>🔒 <strong>Safer payouts</strong> — your payout details are locked after verification</li>
+            <li>✨ Polished buttons and spacing across Home and Search</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.29"
+        sparkle:shortVersionString="1.0.29"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.27</title>
       <description>
         <![CDATA[
