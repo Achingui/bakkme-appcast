@@ -5,6 +5,31 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.30</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.30</h3>
+          <ul>
+            <li>🎵 <strong>Post music actually plays</strong> — a track you attach now plays on your post, muted until you tap for sound</li>
+            <li>🤝 <strong>Collaborators really get invited</strong> — tagging a co-author on a post now reaches them</li>
+            <li>🤖 <strong>"Made with AI"</strong> — a new disclosure you can add to a post, story or spark</li>
+            <li>✏️ <strong>Editing keeps your work</strong> — photos, audience and category survive an edit, and you can remove media</li>
+            <li>👥 <strong>Post to a group from the group chat</strong>, with a "Group members" audience</li>
+            <li>📣 <strong>Share fundraisers and pages into a BakkMe chat</strong>, and tap @mentions in replies</li>
+            <li>📱 <strong>Mobile Money</strong> — the real fee shown up front, and a wrong-operator number caught before you pay</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.30"
+        sparkle:shortVersionString="1.0.30"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.29</title>
       <description>
         <![CDATA[
