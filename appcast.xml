@@ -5,6 +5,31 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.31</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.31</h3>
+          <ul>
+            <li>🔔 <strong>Comment notifications actually arrive</strong> — as a push and in your notifications list</li>
+            <li>👥 <strong>Group posts and events appear in the group chat</strong>, so nobody misses them</li>
+            <li>🙈 <strong>Your profile shows only what you posted as yourself</strong> — not what you published as a page, charity or group</li>
+            <li>💬 <strong>Chat improvements</strong> — tap a name to open a profile or group, larger link previews, and no more raw links in your chat list</li>
+            <li>✍️ <strong>Group posts</strong> — fixed the audience picker and a Post button that could hang</li>
+            <li>🎨 <strong>Background posts open ready for you to type</strong></li>
+            <li>📲 <strong>BakkMe now appears directly in your phone's share menu</strong></li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.31"
+        sparkle:shortVersionString="1.0.31"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.30</title>
       <description>
         <![CDATA[
