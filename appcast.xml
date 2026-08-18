@@ -5,6 +5,31 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.32</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.32</h3>
+          <ul>
+            <li>🔐 <strong>You stay signed in</strong> — your own phone is no longer treated as a new device on every login</li>
+            <li>⚡ <strong>Faster start and fewer freezes</strong></li>
+            <li>🎬 <strong>Video covers keep the crop, rotation and trim you chose</strong></li>
+            <li>🔔 <strong>Chat notifications no longer arrive twice</strong></li>
+            <li>♾️ <strong>Home keeps going</strong> — endless suggestions, and Sparks preview as you browse</li>
+            <li>👁️ <strong>Choose who can see each Spark</strong></li>
+            <li>💬 <strong>Chat</strong> — more room to type, and forwarding moves that chat to the top</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.32"
+        sparkle:shortVersionString="1.0.32"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.31</title>
       <description>
         <![CDATA[
