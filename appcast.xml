@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.36</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.36</h3>
+          <ul>
+            <li>💬 <strong>Messages sent while you were signed out now arrive</strong> when you sign back in</li>
+            <li>📝 <strong>Post captions are no longer cut off</strong> — text-only posts show their text</li>
+            <li>🔊 <strong>Video ads play with sound</strong>, and full-screen ads can now be skipped</li>
+            <li>✨ <strong>Sparks in "Suggested for you"</strong> show when they were posted and who can see them</li>
+            <li>🎁 <strong>Inviting a friend now credits you</strong>, with one clearer message</li>
+            <li>📱 <strong>Reinstalling no longer asks you to verify your device</strong></li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.36"
+        sparkle:shortVersionString="1.0.36"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.35</title>
       <description>
         <![CDATA[
