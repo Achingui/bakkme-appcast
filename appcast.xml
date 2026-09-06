@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.37</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.37</h3>
+          <ul>
+            <li>🖼️ <strong>Selecting photos now stops at the limit</strong> instead of cancelling your whole post</li>
+            <li>🏢 <strong>Fixed crashes</strong> when tapping likes, ratings or comments on an organisation page</li>
+            <li>🚩 <strong>Reporting a post now works everywhere</strong> and lets you choose a reason</li>
+            <li>🛠️ <strong>Fixed a crash that could break the dashboard</strong></li>
+            <li>⏳ <strong>Full-screen video ads now give you a short countdown</strong> first</li>
+            <li>📣 <strong>Publishing a fundraiser now offers to share it</strong> with your own network</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.37"
+        sparkle:shortVersionString="1.0.37"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.36</title>
       <description>
         <![CDATA[
