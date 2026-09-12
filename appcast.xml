@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.38</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.38</h3>
+          <ul>
+            <li>🔍 <strong>Chat search now finds every conversation</strong>, not just the recent ones</li>
+            <li>💬 <strong>Group posts appear in the group chat again</strong></li>
+            <li>🔁 <strong>Your feed no longer repeats the same posts</strong> as you scroll</li>
+            <li>🖼️ <strong>The video thumbnail you pick</strong> is now the one that gets used</li>
+            <li>💰 <strong>See when you were paid and where it went</strong> — Settings &rsaquo; Your money</li>
+            <li>✨ <strong>Sparks in "Suggested for you" can now be liked and shared</strong></li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.38"
+        sparkle:shortVersionString="1.0.38"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.37</title>
       <description>
         <![CDATA[
