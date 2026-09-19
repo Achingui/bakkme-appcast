@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.39</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.39</h3>
+          <ul>
+            <li>📱 <strong>BakkMe now fits your iPad</strong> — and tablets, instead of stretching a phone layout</li>
+            <li>🙈 <strong>Post anonymously in a group</strong>, or share one post with up to five groups at once</li>
+            <li>🎵 <strong>Music you add to a post now plays</strong> in the feed</li>
+            <li>🎬 <strong>Long videos upload again</strong>, and you can see what's happening while they do</li>
+            <li>🔗 <strong>A link you post shows its preview</strong> in the feed</li>
+            <li>✨ <strong>Sparks: tap to pause or replay</strong>, and ads no longer play over the sound</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.39"
+        sparkle:shortVersionString="1.0.39"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.38</title>
       <description>
         <![CDATA[
