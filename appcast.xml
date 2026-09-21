@@ -5,6 +5,28 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.40</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.40</h3>
+          <ul>
+            <li>🔔 <strong>Notifications now reach you</strong> — some accounts never received any at all</li>
+            <li>🌍 <strong>Links and invites you share</strong> show their preview in your language</li>
+            <li>🛠️ Removed a panel that could flash after a video ad</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.40"
+        sparkle:shortVersionString="1.0.40"
+        sparkle:os="ios"
+      />
+    </item>
+
+    <item>
       <title>Version 1.0.39</title>
       <description>
         <![CDATA[
