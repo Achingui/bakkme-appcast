@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.41</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.41</h3>
+          <ul>
+            <li>📸 <strong>Photos</strong> — pinch to zoom, swipe between them, and an attached song keeps playing</li>
+            <li>💬 <strong>Sharing to several chats</strong> now reaches everyone you picked, not just the last one</li>
+            <li>👥 People you already talk to come first when you share</li>
+            <li>🏠 Reopening the app shows the newest posts at the top</li>
+            <li>🛠️ Sharper profile pictures, and a fix for a crash when skipping in a live replay</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Wed, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.41"
+        sparkle:shortVersionString="1.0.41"
+        sparkle:os="ios"
+      />
+    </item>
+
+    <item>
       <title>Version 1.0.40</title>
       <description>
         <![CDATA[
