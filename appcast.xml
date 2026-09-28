@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.43</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.43</h3>
+          <ul>
+            <li>🖼️ <strong>Photo posts open again</strong> — tapping one with several images did nothing</li>
+            <li>💬 <strong>Sharing to a chat</strong> now reaches everyone you picked</li>
+            <li>#️⃣ Tapping a hashtag shows the posts using it</li>
+            <li>💛 Thank-you messages show the right amount and currency</li>
+            <li>🎵 The music button on a post is visible again, so you can hear the song</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.43"
+        sparkle:shortVersionString="1.0.43"
+        sparkle:os="ios"
+      />
+    </item>
+
+    <item>
       <title>Version 1.0.42</title>
       <description>
         <![CDATA[
