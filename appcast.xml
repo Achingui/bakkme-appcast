@@ -5,6 +5,30 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.42</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.42</h3>
+          <ul>
+            <li>👥 <strong>Group posts open first time</strong> — a group with posts no longer shows an empty screen</li>
+            <li>🖼️ Fundraiser and charity cover photos no longer cut people's heads off</li>
+            <li>🤝 <strong>See everyone you invited</strong>, including the invites not confirmed yet</li>
+            <li>💬 Sending a photo to a chat shows one loading indicator instead of two</li>
+            <li>🛠️ Group post cards are no longer clipped at the corners</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.42"
+        sparkle:shortVersionString="1.0.42"
+        sparkle:os="ios"
+      />
+    </item>
+
+    <item>
       <title>Version 1.0.41</title>
       <description>
         <![CDATA[
