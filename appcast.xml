@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.44</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.44</h3>
+          <ul>
+            <li>🎬 <strong>The buttons beside a video no longer overlap</strong> — mute is its own button again, not stacked on like</li>
+            <li>📊 The progress bar sits at the bottom of the post, and videos fill the card properly</li>
+            <li>🤝 <strong>Invite &amp; Earn shows your real invitation counts</strong> — and the rule is 2 posts of your own, not 5</li>
+            <li>↗️ Spark shares are counted now. They never were</li>
+            <li>✅ The profile badge no longer calls itself "verification" — that is the separate check used for payments</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.44"
+        sparkle:shortVersionString="1.0.44"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.43</title>
       <description>
         <![CDATA[
