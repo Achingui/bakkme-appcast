@@ -5,6 +5,27 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.46</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.46</h3>
+          <ul>
+            <li>🌍 <strong>Creating a fundraiser works again in 11 African countries</strong> — it could fail depending on your connection</li>
+            <li>🏦 Kenya no longer shows a bank payout option that could not be paid</li>
+            <li>🗣️ Error messages in donations, verification and chat now appear in your language</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.46"
+        sparkle:shortVersionString="1.0.46"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.44</title>
       <description>
         <![CDATA[
