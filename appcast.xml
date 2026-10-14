@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.47</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.47</h3>
+          <ul>
+            <li>🏠 <strong>Home is one feed now</strong>, not a stack of sections — and the newest posts lead it</li>
+            <li>⏳ Stories last 24 hours instead of a year, and show which you have already watched</li>
+            <li>▶️ Fixed a video that could freeze the screen after playing</li>
+            <li>💝 <strong>Donations send the recipient 100% by default</strong></li>
+            <li>💬 Chat keeps your typed message when you attach or take a photo, and replies stay replies — voice notes included</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Wed, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.47"
+        sparkle:shortVersionString="1.0.47"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.46</title>
       <description>
         <![CDATA[
