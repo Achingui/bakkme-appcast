@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.49</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.49</h3>
+          <ul>
+            <li>👤 <strong>Tapping a suggested account opens their profile</strong> instead of following them — and you can unfollow right from that screen</li>
+            <li>🖼️ A group's new photo now shows up in its chat</li>
+            <li>📊 A poll that shows who voted now says so, and the poll card no longer overflows the conversation</li>
+            <li>🎙️ A voice note that recorded nothing is no longer sent, and an uploading note shows that it is uploading</li>
+            <li>✍️ The message box starts sentences with a capital again</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.49"
+        sparkle:shortVersionString="1.0.49"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.47</title>
       <description>
         <![CDATA[
