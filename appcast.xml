@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.51</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.51</h3>
+          <ul>
+            <li>🤝 <strong>Tontines:</strong> see everything that happened in an activity log, export it as PDF or CSV, archive a finished circle, and swap turns with another member</li>
+            <li>💬 Comment on Sparks and photo or video posts from a bar at the bottom of the screen</li>
+            <li>✨ Creating a Spark: choose who you post as, add a category, a credit and an AI label</li>
+            <li>🔐 Restoring your chats with your PIN asks once, and stops asking after it works</li>
+            <li>🌙 Cleaner home rows and better dark mode</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.51"
+        sparkle:shortVersionString="1.0.51"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.49</title>
       <description>
         <![CDATA[
