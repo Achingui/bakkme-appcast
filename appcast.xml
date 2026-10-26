@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.52</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.52</h3>
+          <ul>
+            <li>🌍 <strong>Give from anywhere in your own currency:</strong> dollars, euros or pounds, with the exchange rate and exactly what the recipient gets</li>
+            <li>📱 Mobile money and PayPal side by side when you give</li>
+            <li>🤝 <strong>Tontines:</strong> add members who joined later, sessions with 2 or 3 winners, and a reminder to set up your payout</li>
+            <li>⏱️ A countdown before ads, music pauses for the ad, and fewer taps to close</li>
+            <li>🛠️ See who you're giving to, correct amounts on shared fundraisers, and thank-yous in the donor's language</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.52"
+        sparkle:shortVersionString="1.0.52"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.51</title>
       <description>
         <![CDATA[
