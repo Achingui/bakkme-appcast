@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.53</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.53</h3>
+          <ul>
+            <li>🤝 <strong>Tontines:</strong> pick your meeting day and time (like the 2nd Sunday at 3 PM), with a reminder before each session</li>
+            <li>🪑 Choose how many seats you take; admins and co-admins run the circle and can add members</li>
+            <li>🎲 A live public draw anyone can check on their phone, or an instant draw, with the order and every past draw</li>
+            <li>🧭 A short tour of how BakkMe tontines work</li>
+            <li>🛠️ The app starts faster and more reliably, and translations are better</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.53"
+        sparkle:shortVersionString="1.0.53"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.52</title>
       <description>
         <![CDATA[
