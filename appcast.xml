@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.54</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.54</h3>
+          <ul>
+            <li>📖 Long text on a photo now opens as a readable story card, and links stay tappable</li>
+            <li>💬 Chats now show new messages without leaving and coming back</li>
+            <li>🤝 <strong>Tontines:</strong> you're reminded to verify your identity before your turn, so your money is never held. Show or hide the tontine in your group chat any time</li>
+            <li>🚀 A more compact Get Started on Home, with video tutorials in your language</li>
+            <li>🛠️ Fixes for sharing, Spark captions and notifications for new members</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.54"
+        sparkle:shortVersionString="1.0.54"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.53</title>
       <description>
         <![CDATA[
