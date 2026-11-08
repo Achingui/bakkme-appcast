@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.55</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.55</h3>
+          <ul>
+            <li>📱 Sign up with your phone number the way you write it, even with +237. The country code starts on your country, and "Resend code" really sends a new code</li>
+            <li>✍️ Names with accents, apostrophes and hyphens are accepted</li>
+            <li>🔒 <strong>Paying:</strong> the app explains to confirm with your phone's own unlock, not your Mobile Money PIN. Tontine receipts say "contribution"</li>
+            <li>🏠 A lighter home screen: Sparks now appear a little further down</li>
+            <li>🔗 A shared post you can't open now says why</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 08 Nov 2026 02:29:16 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.55"
+        sparkle:shortVersionString="1.0.55"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.54</title>
       <description>
         <![CDATA[
