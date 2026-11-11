@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.56</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.56</h3>
+          <ul>
+            <li>🏠 Your home screen opens with what's newest: the latest post, or new Sparks</li>
+            <li>✨ <strong>Sparks:</strong> tap a #hashtag to see more Sparks like it. A Spark no longer keeps playing after you leave it</li>
+            <li>🤝 <strong>Tontines:</strong> they move to the next session after its date; a late contribution stays visible and payable</li>
+            <li>🎬 Comment mentions show real names, post videos count down, and edited videos look sharper</li>
+            <li>🛠️ Fixes: the keyboard no longer stays stuck after posting, and "Watch" on a live opens it</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Wed, 11 Nov 2026 18:57:49 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.56"
+        sparkle:shortVersionString="1.0.56"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.55</title>
       <description>
         <![CDATA[
