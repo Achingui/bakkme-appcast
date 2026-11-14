@@ -5,6 +5,29 @@
     <description>BakkMe App Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.57</title>
+      <description>
+        <![CDATA[
+          <h3>What's New in Version 1.0.57</h3>
+          <ul>
+            <li>🎬 <strong>Videos:</strong> trimming keeps the part you choose, and a Story never loses its video</li>
+            <li>✨ New "Get started" card: check your language and country, join a group, invite your people</li>
+            <li>💌 Invite friends from the Menu, with a code you can personalise</li>
+            <li>⚡ Lighter on slow connections: Home loads less data, and fewer freezes on entry-level phones</li>
+            <li>🛠️ Fixes: Contact opens in your language, sign-up spots a mistyped email, the video bar no longer covers comments</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 14 Nov 2026 04:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://apps.apple.com/app/id6764490928"
+        sparkle:version="1.0.57"
+        sparkle:shortVersionString="1.0.57"
+        sparkle:os="ios"
+      />
+    </item>
+    <item>
       <title>Version 1.0.56</title>
       <description>
         <![CDATA[
